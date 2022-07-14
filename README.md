@@ -1,7 +1,11 @@
 # JS.1024.2022_Mirror
 Earth Protector - submission in JS1024
 
-Earth civilization is under threat by meteor strikes. Take the role of an air defense system in this mobile friendly survival game and try to best a high score.
+#### Submission: https://js1024.fun/demos/2022/21
+
+#### Minified code: https://js1024.fun/demos/2022/21/source/m
+
+Earth civilization is under threat by a meteor shower. Take the role of a space defense system in this mobile friendly survival game and try to best a high score. Played best on a phone in portrait mode. Enjoy!
 
 
 ### Gameplay:
